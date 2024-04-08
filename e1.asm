@@ -1,0 +1,4 @@
+ldi r0, 0xCA
+sts 0x82, r0
+sts 0x83, r0
+stop
